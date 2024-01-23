@@ -1459,9 +1459,9 @@
         height: 20vh;
         width: 100%;
     }
-    .hr-s{
+    /* .hr-s{
         background-color: red;
-    }
+    } */
     .text-content blockquote em{
         font-size: 22px;
       }
